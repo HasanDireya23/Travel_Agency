@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "TradeGothic LT Extended";
+  src: url("./assets/webfonts/Trade_Gothic_LT_Std_Extended.otf") format("woff2"),
+    url("./assets/webfonts/Trade_Gothic_LT_Std_Extended.otf") format("woff"),
+    url("./assets/webfonts/Trade_Gothic_LT_Std_Extended.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat Regular";
+  src: url("./assets/webfonts/Montserrat_Regular.ttf") format("woff2"),
+    url("./assets/webfonts/Montserrat_Regular.ttf") format("woff"),
+    url("./assets/webfonts/Montserrat_Regular.ttf") format("truetype");
+}
